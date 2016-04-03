@@ -12,7 +12,5 @@ module.exports = {
     'autoprefixer'
   ],
   input: 'src/base.css',
-  dir: 'css'
+  dir: 'dist/css'
 }
-
-

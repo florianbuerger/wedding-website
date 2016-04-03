@@ -23,7 +23,7 @@
   },
   "scripts": {
     "css": "postcss -c postcss.config.js",
-    "minify": "postcss -u cssnano css/base.css -o css/base.min.css",
+    "minify": "postcss -u cssnano dist/css/base.css -o dist/css/base.min.css",
     "start": "postcss -c postcss.config.js -w"
   },
   "repository": {
